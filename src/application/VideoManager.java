@@ -32,7 +32,7 @@ public class VideoManager {
         String basePath = new File("").getAbsolutePath();
         
         //Téléchargement d'audio a partir de lien ytb donne par l'utilisateur dans le dialog 
-        String[] command = {basePath+"/resources/tools/yt-dlp.exe", "--extract-audio", "--audio-format", "mp3", "-o", outputDirectory + "maVideo",
+        String[] command = {basePath+"/tools/yt-dlp.exe", "--extract-audio", "--audio-format", "mp3", "-o", outputDirectory + "maVideo",
                 videoUrl };
 
         ProcessBuilder processBuilder = new ProcessBuilder(command);
