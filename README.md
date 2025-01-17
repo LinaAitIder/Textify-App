@@ -8,3 +8,9 @@ Some tools were necessary for the completion of this project , such as Yt-dlp. I
 ## Showcase video:
 https://github.com/user-attachments/assets/7e7f8130-07fe-4a7c-817c-20d8d636cff9
 
+# Team Members :
+- Lina Ait Ider
+- Hayat Imhah
+- Imane Bahamd
+- Saida Haouarani
+- Ezzahra Fadyl
