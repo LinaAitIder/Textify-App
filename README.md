@@ -9,8 +9,8 @@ Some tools were necessary for the completion of this project , such as Yt-dlp. I
 https://github.com/user-attachments/assets/7e7f8130-07fe-4a7c-817c-20d8d636cff9
 
 ## Team Members :
-- Lina Ait Ider
-- Hayat Imhah
-- Imane Bahamd
-- Saida Haouarani
-- Ezzahra Fadyl
+- Lina Ait Ider 
+- [Hayat Imhah](https://github.com/hayat8hayat)
+- [Imane Bahamd](https://github.com/imanebahamd)
+- [Saida Haouarani](https://github.com/Saiida-dev)
+- [Ezzahra Fadyl](https://github.com/EzzahraF)
